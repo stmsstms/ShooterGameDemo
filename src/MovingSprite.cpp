@@ -32,6 +32,7 @@ void CPPClass::MovingSprite::accelerate( ofVec2f acc )
 	velocity.limit(10); 
 }
 
+
 void CPPClass::MovingSprite::draw()
 {
 	// 显示自己的形象

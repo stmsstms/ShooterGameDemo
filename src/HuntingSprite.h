@@ -33,7 +33,6 @@ namespace CPPClass
 
 		// 4.2.2 类成员的访问控制： 私有
 	private: 
-		// turnToTarget() 转向目标
 		void turnToTarget();
 
 	private:
